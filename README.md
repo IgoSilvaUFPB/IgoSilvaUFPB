@@ -1,7 +1,7 @@
 <p>
   🧔 Olá, me chamo <bold>Igo</bold>.<br/>
   💼 Profissão: Prático.<br/>
-  💻 Curso: <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR" target="_blank">Ciência de Dados e Inteligência Artificial</a>.<br/>
+  💻 Curso: <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR" target="_blank">Ciência de Dados e Inteligência Artificial</a><br/>
   🎓 Instituição: <a href="https://www.ufpb.br/" target="_blank">Universidade Federal da Paraíba - UFPB</a>
 </p>
 <p>
