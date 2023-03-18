@@ -3,6 +3,7 @@
   💼 Profissão: Prático.<br/>
   💻 Curso: <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR" target="_blank">Ciência de Dados e Inteligência Artificial</a><br/>
   🎓 Instituição: <a href="https://www.ufpb.br/" target="_blank">Universidade Federal da Paraíba - UFPB</a>
+  ⚠️ Foco: O futuro.
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
