@@ -1,8 +1,8 @@
 <p>
   🧔 Olá, me chamo <bold>Igo</bold>.<br/>
   💼 Trabalho como prático no Porto de Natal.<br/>
-  💻 Estudo <bold>Ciência de Dados e Inteligência Artificial</bold>.<br/>
-  🎓 Universidade Federal da Paraíba - <a href="https://www.ufpb.br/">UFPB</a>
+  💻 Estudo <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR">Ciência de Dados e Inteligência Artificial</a>.<br/>
+  🎓 <a href="https://www.ufpb.br/">Universidade Federal da Paraíba - UFPB</a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
