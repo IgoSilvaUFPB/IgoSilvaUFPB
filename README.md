@@ -23,5 +23,3 @@
   💻 Estudo <bold>Ciência de Dados e Inteligência Artificial</bold>.<br/>
   🎓 Universidade Federal da Paraíba - <a href="https://www.ufpb.br/">UFPB</a>
 </p>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
