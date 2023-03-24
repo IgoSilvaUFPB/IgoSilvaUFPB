@@ -21,6 +21,13 @@
 </p>
 <hr>
 <p>
+  🌐 Idiomas:<br/>
+  <img src="https://img.icons8.com/color/256/brazil.png" width="40px"/>
+  <img src="https://img.icons8.com/color/256/usa.png" width="40px"/>
+  <img src="https://img.icons8.com/color/256/france.png" width="40px"/>
+</p>
+<hr>
+<p>
   📣 Precisa contatar-me? Encontre-me aqui:<br/>
   <a href="mailto:igo.silva@academico.ufpb.br"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/igo-silva-977a19266/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
