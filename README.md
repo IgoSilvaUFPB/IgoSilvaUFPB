@@ -3,7 +3,7 @@
   🚢 Profession: Harbour Pilot.<br/>
   🎓 Institution: Federal University of Paraíba - UFPB<br/>
   💻 Program: Data Science and Artificial Intelligence<br/>  
-  🎯 Goal: The future.
+  🎯 Goal: To establish a career in the domain of data science and artificial intelligence.
 </p>
 <hr>
 <p>
