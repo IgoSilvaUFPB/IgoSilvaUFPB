@@ -1,13 +1,13 @@
 <p>  
   <img src="https://natalpilots.com/imagens/imagem_github_readmeX.gif" width="70%"/><br/>
-  🚢 Profissão: Prático.<br/>
-  💻 Curso: <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR" target="_blank">Ciência de Dados e Inteligência Artificial</a><br/>
-  🎓 Instituição: <a href="https://www.ufpb.br/" target="_blank">Universidade Federal da Paraíba - UFPB</a><br/>
-  🎯 Objetivo: O futuro.
+  🚢 Profession: Maritime Pilot.<br/>
+  🎓 Institution: Federal University of Paraíba - UFPB<br/>
+  💻 Program: Data Science and Artificial Intelligence<br/>  
+  🎯 Goal: The future.
 </p>
 <hr>
 <p>
-  🏆 Competências:<br/>
+  🏆 Skills:<br/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white"/>
@@ -21,14 +21,14 @@
 </p>
 <hr>
 <p>
-  🌐 Idiomas:<br/>
+  🌐 Languages:<br/>
   <img src="https://img.icons8.com/color/256/brazil.png" width="40px"/>
   <img src="https://img.icons8.com/color/256/usa.png" width="40px"/>
   <img src="https://img.icons8.com/color/256/france.png" width="40px"/>
 </p>
 <hr>
 <p>
-  📣 Encontre-me aqui:<br/>
+  📣 Find me here:<br/>
   <a href="mailto:igo.silva@academico.ufpb.br"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/igo-silva-977a19266/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/igosilva"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
