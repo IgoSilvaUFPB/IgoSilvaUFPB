@@ -1,5 +1,5 @@
-<p>
-  <h2>Olá, me chamo <bold>Igo</bold>.</h2>
+<p>  
+  <img src="https://natalpilots.com/imagens/imagem_github_readmeX.gif" width="70%"/><br/>
   🚢 Profissão: Prático.<br/>
   💻 Curso: <a href="https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR" target="_blank">Ciência de Dados e Inteligência Artificial</a><br/>
   🎓 Instituição: <a href="https://www.ufpb.br/" target="_blank">Universidade Federal da Paraíba - UFPB</a><br/>
@@ -33,10 +33,6 @@
   <a href="https://www.linkedin.com/in/igo-silva-977a19266/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/igosilva"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://steamcommunity.com/id/praticoigo/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-</p>
-<hr>
-<p>  
-  <img src="https://natalpilots.com/imagens/imagem_github_readmeX.gif" width="70%"/>
 </p>
 
 
