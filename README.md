@@ -1,6 +1,6 @@
 <p>  
   <img src="https://natalpilots.com/imagens/imagem_github_readmeX.gif" width="70%"/><br/>
-  🚢 Profession: Harbour Pilot.<br/>
+  🚢 Profession: Harbour Pilot<br/>
   🎓 Institution: Federal University of Paraíba - UFPB<br/>
   💻 Program: Data Science and Artificial Intelligence<br/>  
   🎯 Goal: To establish a career in the domain of data science and artificial intelligence.
