@@ -24,7 +24,7 @@ int main () {
     scanf("%d", &A[i]);
     B[i] = A[i]*A[i];
   }
-	//Imprimindo os vetores utilizando a função e passando os endereços como argumento
+  //Imprimindo os vetores utilizando a função e passando os endereços como argumento
   printf("Vetor A: ");
   printvetor(&A);
   printf("Vetor B: ");
