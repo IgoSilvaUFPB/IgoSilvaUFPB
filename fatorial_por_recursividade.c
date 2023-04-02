@@ -4,6 +4,7 @@ int fat (int num) {
   	if (num == 0) {
   		return 1;
   	} else {
+      //chamando a função dentro dela mesma
   		return num*fat(num-1);
   	}
 }
